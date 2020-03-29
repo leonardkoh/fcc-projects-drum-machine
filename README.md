@@ -15,3 +15,5 @@ Tasks Required:
 
 <li>User Story #7: When a .drum-pad is triggered, a string describing the associated audio clip is displayed as the inner text of the #display element (each string must be unique).</li>
 </ul>
+
+Deployed on: http://lk-drum-machine.netlify.com
